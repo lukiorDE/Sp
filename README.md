@@ -5,7 +5,7 @@
 Для нормальной работы скрипта, были использованы следующие библеотеки:
 <body>
 <h2>
-import socket<br>
+  <font color="#CD5C5C">import</font> socket<br>
 import http.client<br>
 import uuid, re<br>
 </h2></body>
