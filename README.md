@@ -19,4 +19,13 @@ import uuid, re<br>
 <body>
 
 Лабораторная работа №2
+<body>
+
+import socket<br>
+import struct<br>
+import os </br> 
+</body>
+<br>
+Лабораторная работа №2
+  
 
