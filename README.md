@@ -5,7 +5,7 @@
 Для нормальной работы скрипта, были использованы следующие библеотеки:
 <body>
 <h2>
-  <div color=#CD5C5C> import </div> socket<br>
+  <div color="#CD5C5C"> import </div> socket
 import http.client<br>
 import uuid, re<br>
 </h2></body>
