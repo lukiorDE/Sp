@@ -34,6 +34,6 @@ from bs4 import BeautifulSoup<br>
 import requests<br>
 <br>
 </body>
-Лабораторная работа №5
+Лабораторная работа №5<br>
 <body> from ftplib import FTP <br> </body>
 
