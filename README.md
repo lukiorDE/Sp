@@ -8,5 +8,16 @@
 </ul>
 
 <h3>Библеотеки используемые в лабораторных работах:<h3>
+<ul>Лабораторная работа №1
+<body>
 
+import  socket </br> 
+import http.client<br>
+import uuid, re<br>
+</body>
+<br>
+
+<body>
+<br>
+Лабораторная работа №2
 
