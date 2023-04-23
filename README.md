@@ -35,5 +35,5 @@ import requests<br>
 <br>
 </body>
 Лабораторная работа №5
-  
+<body> from ftplib import FTP <br> </body>
 
