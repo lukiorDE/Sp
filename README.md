@@ -9,32 +9,38 @@
 
 <h3>Библиотеки используемые в лабораторных работах:<h3>
 <ul><div>Лабораторная работа №1 </div>
-<body>
+<ul><body>
 <br>
 import  socket </br> 
 import http.client<br>
 import uuid, re<br>
 </body>
+  </ul>
 <br>
 <body>
 
   <div>Лабораторная работа №2</div><br>
-<body>
+<ul><body>
 
 import socket<br>
 import struct<br>
 import os </br> 
 </body>
+  </ul>
 <br>
   <div>Лабораторная работа №3 и №4</div> 
-
+<ul>
 <body>
 <br>
 from bs4 import BeautifulSoup<br>
 import requests<br>
 <br>
 </body>
+  </ul>
   <div>Лабораторная работа №5</div>
   <br>
+  <ul>
 <body> from ftplib import FTP <br> </body>
+  </ul>
+  </ul>
 
