@@ -8,8 +8,18 @@
 <br>
 <body>
 <h2>
-  <div color="IndianRed"> import  socket </div> 
+import  socket </br> 
 import http.client<br>
 import uuid, re<br>
+</h2></body>
+<br>
+<br>
+<body>
+<h2>
+pip install sockets</br>
+pip install python-http-client</br>
+pip install uuid</br>
+pip install regex </br> 
+
 </h2></body>
 
