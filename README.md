@@ -26,7 +26,7 @@ import struct<br>
 import os </br> 
 </body>
 <br>
-  <div>Лабораторная работа №3 и №4</div> <br>
+  <div>Лабораторная работа №3 и №4</div> 
 
 <body>
 <br>
