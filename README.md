@@ -1,6 +1,6 @@
-<a> <h1 align="center"> Описание </h1></a>
+<a> <h1 align="center"> Лабораторная работ №1 </h1></a>
 <br>
-<a> <h2 align="center"> Описание </h2></a>
+<a> <h2 align="left"> Описание </h2></a>
 <br>
 Установите и запустите файл lab1.py
 <br>
