@@ -8,7 +8,7 @@
 </ul>
 
 <h3>Библиотеки используемые в лабораторных работах:<h3>
-<ul><h4>Лабораторная работа №1 </h4>
+<ul><div>Лабораторная работа №1 </div>
 <body>
 
 import  socket </br> 
@@ -18,7 +18,7 @@ import uuid, re<br>
 <br>
 <body>
 
-<h5>Лабораторная работа №2</h5>
+  <div>Лабораторная работа №2</div><br>
 <body>
 
 import socket<br>
@@ -26,7 +26,7 @@ import struct<br>
 import os </br> 
 </body>
 <br>
-<h6>Лабораторная работа №3 и №4</h6> <br>
+  <div>Лабораторная работа №3 и №4</div> <br>
 
 <body>
 <br>
@@ -34,7 +34,7 @@ from bs4 import BeautifulSoup<br>
 import requests<br>
 <br>
 </body>
-<h7>Лабораторная работа №5<h7><br>
+  <div>Лабораторная работа №5</div><br>
   <br>
 <body> from ftplib import FTP <br> </body>
 
