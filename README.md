@@ -10,7 +10,7 @@
 <h3>Библиотеки используемые в лабораторных работах:<h3>
 <ul><div>Лабораторная работа №1 </div>
 <body>
-
+<br>
 import  socket </br> 
 import http.client<br>
 import uuid, re<br>
