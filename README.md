@@ -16,8 +16,7 @@ import http.client<br>
 import uuid, re<br>
 </body>
 <br>
-
 <body>
-<br>
+
 Лабораторная работа №2
 
