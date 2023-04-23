@@ -27,6 +27,7 @@ import os </br>
 </body>
 <br>
 Лабораторная работа №3 и №4
+<br>
 <body>
 
 from bs4 import BeautifulSoup<br>
