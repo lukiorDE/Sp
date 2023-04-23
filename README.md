@@ -4,7 +4,7 @@
 <br>
 Для нормальной работы скрипта, были использованы следующие библеотеки:
 <h2>
-import socket
-import http.client
-import uuid, re
+import socket<br>
+import http.client<br>
+import uuid, re<br>
 </h2>
