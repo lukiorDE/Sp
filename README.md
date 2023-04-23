@@ -1,9 +1,12 @@
 <div><h1 align="center">Cетевое программирование</h1></div>
 <div><h2> align="center">Информация</h2></div>
 <div>Для просмотра лабораторных работ: </div>
-<ul><div>lab1:<a href="https://github.com/lukiorDE/Sp/tree/Лабораторная-работа-№1">Лабараторная работа №1</a></div>
+<ul><div><a href="https://github.com/lukiorDE/Sp/tree/Лабораторная-работа-№1">Лабараторная работа №1</a></div>
 <div><a href="https://github.com/lukiorDE/Sp/tree/Лабораторная-работа-№2">Лабараторная работа №2</a></div>
 <div><a href="https://github.com/lukiorDE/Sp/tree/Лабораторная-работа-№3-№4">Лабараторная работа №3 и №4</a></div>
 <div><a href="https://github.com/lukiorDE/Sp/tree/Лабораторная-работа-№5">Лабараторная работа №5</a></div>
 </ul>
+<br>
+<br>
+<h3>Библеотеки используемые в лабораторных<h3>
 
