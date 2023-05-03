@@ -5,6 +5,7 @@
 <div><a href="https://github.com/lukiorDE/Sp/tree/Лабораторная-работа-№2">Лабараторная работа №2</a></div>
 <div><a href="https://github.com/lukiorDE/Sp/tree/Лабораторная-работа-№3-№4">Лабараторная работа №3 и №4</a></div>
 <div><a href="https://github.com/lukiorDE/Sp/tree/Лабораторная-работа-№5">Лабараторная работа №5</a></div>
+<div><a href="https://github.com/lukiorDE/Sp/tree/Курсовая-работа>Курсовая работа</a></div>
 </ul>
 
 <h3>Библиотеки используемые в лабораторных работах:<h3>
